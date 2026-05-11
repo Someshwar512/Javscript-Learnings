@@ -5,3 +5,14 @@ function hello() {
 }
 
 hello();
+
+
+//variables 
+
+let name = "Sonu";  
+const age = 22;
+var city = "Pune";
+
+console.log(name);
+console.log(age);
+console.log(city);
